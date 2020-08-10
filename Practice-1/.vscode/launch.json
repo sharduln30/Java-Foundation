@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HuffmanEncoding",
+            "request": "launch",
+            "mainClass": "Practice.HuffmanEncoding",
+            "projectName": "lec001_6ccd434b"
+        }
+    ]
+}
